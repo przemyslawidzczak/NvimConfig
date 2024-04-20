@@ -1,4 +1,6 @@
 local plugins = {
+  { 'hrsh7th/nvim-compe' },
+  { 'OmniSharp/omnisharp-vim' },
   {
     "williamboman/mason.nvim",
     opts = {
